@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class ResumePage extends Component {
+export default class FullPage extends Component {
     render() {
         return (
             <div>
-                
+                asdf
             </div>
         )
     }
